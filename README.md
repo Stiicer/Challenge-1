@@ -13,11 +13,11 @@ Building this website was a challenge in finding redundancies in the CSS code an
 
 ## Installation
 
-Using the inproperly syntaxed code I looked for redundancies withing the CSS and HTML. After cleaning up the CSS I moved onto the HTML. The code had little to no specificaions instead used 
+Using the inproperly syntaxed code I looked for redundancies withing the CSS and HTML. After cleaning up the CSS I moved onto the HTML. The code had little to no specificaions instead used broad designations such as div. I corrected these by using proper HTML semantic elements. 
 
 ## Usage
 
-The website can be used to learn more about HTML CSS and JAVASCRIPT
+This website displays services offered by Horiseon
 
 ## Credits
 
