@@ -1,10 +1,14 @@
-# <Challenge 1>
+# Horiseon Challenge
 
+## Deployed Link
+
+https://stiicer.github.io/Challenge-1/
+ 
 ## Description
 
 Building this website was a challenge in finding redundancies in the CSS code and formating the HTML with proper syntax
 
-
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
